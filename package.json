@@ -1,0 +1,9 @@
+{
+  "name": "pretty-sleepy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "pretty-sleepy": "index.js"
+  },
+  "license": "MIT"
+}
